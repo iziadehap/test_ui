@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 
 import 'core.dart';
 
+// only make ui without any type of clean code to end task with faster way 
+
+
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
